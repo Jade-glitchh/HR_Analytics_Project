@@ -26,12 +26,11 @@ In this project, I performed a full end-to-end HR analytics workflow, using the 
 2️⃣ Data Cleaning
 
 Cleaning included:
-
-✔ Fixing incorrect data types
-✔ Standardizing categorical values
-✔ Removing duplicates
-✔ Handling inconsistencies in fields such as department, marital status, job role
-✔ Creating clean and analysis-ready DataFrame
+- Fixing incorrect data types
+- Standardizing categorical values
+- Removing duplicates
+- Handling inconsistencies in fields such as department, marital status, job role
+- Creating clean and analysis-ready DataFrame
 
 This ensures reliable analysis and prevents misleading insights.
 
