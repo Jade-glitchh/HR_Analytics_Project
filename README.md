@@ -135,8 +135,7 @@ HR_Attrition_Analysis/
 |   └── 03_modelling.ipynb
 ├── dashboard/
 │   └── HR_Attrition_Dashboard.pbix
-├── images/
-│   └── dashboard.png
+├── dashboard.png
 ├── Report/
 |   └──Insight.md
 |   └── HR_Attrition_Dashboard.pdf
