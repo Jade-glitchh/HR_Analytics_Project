@@ -3,7 +3,7 @@
 # Dataset: IBM HR Analytics Employee Attrition Dataset
 # Tools Used: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook, Power BI
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 
 ## Project Overview
