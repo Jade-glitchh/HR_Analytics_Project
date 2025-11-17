@@ -1,7 +1,7 @@
 # HR Employee Attrition Analysis (End-to-End Data Analytics Project)
 
-# Dataset: IBM HR Analytics Employee Attrition Dataset
-# Tools Used: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook, Power BI
+## Dataset: IBM HR Analytics Employee Attrition Dataset
+## Tools Used: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook, Power BI
 
 ![Dashboard Preview](dashboard.png)
 
@@ -45,9 +45,8 @@ Feature engineering gives HR actionable segments instead of raw data.
 4️⃣ Exploratory Data Analysis (EDA)
 
 - Performed in-depth analysis answering key business questions:
-
-🔹 Attrition Rate Overview
-🔹 Univariate & Bivariate Analysis
+🔹Attrition Rate Overview
+🔹Univariate & Bivariate Analysis
 
 - Analyzed relationships between attrition and employee key drivers.
 
@@ -123,23 +122,18 @@ This pattern helps shape onboarding and career development programs.
 
 ## Project Structure 
 
-HR_Attrition_Analysis/
-├── data/
-│   └── HR_employee_attrition.csv
-|   └── hr_cleaned.csv
-|   └── employees_with_risk_score.csv
-├── notebooks/
-│   └── 01_data_cleaning.ipynb
-|   └── 02_eda.ipynb
-|   └── 03_modelling.ipynb
-├── dashboard/
-│   └── HR_Attrition_Dashboard.pbix
-├── dashboard.png
-├── Report/
-|   └──Insight.md
-|   └── HR_Attrition_Dashboard.pdf
-│   
-└── README.md
+HR_Attrition_Analysis Files
+data - HR_employee_attrition.csv
+      - hr_cleaned.csv
+      - employees_with_risk_score.csv
+notebooks - 01_data_cleaning.ipynb
+          - 02_eda.ipynb
+          - 03_modelling.ipynb
+dashboard - HR_Attrition_Dashboard.pbix
+dashboard.png
+Report - Insight.md
+       - HR_Attrition_Dashboard.pdf
+README.md
 
 
 
