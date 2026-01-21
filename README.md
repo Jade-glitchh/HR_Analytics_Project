@@ -121,7 +121,7 @@ This pattern helps shape onboarding and career development programs.
 
 
 ## Project Structure 
-
+```
 HR_Attrition_Analysis Files
 data - HR_employee_attrition.csv
       - hr_cleaned.csv
@@ -134,9 +134,7 @@ dashboard.png
 Report - Insight.md
        - HR_Attrition_Dashboard.pdf
 README.md
-
-
-
+```
 
 ## Conclusion
 
